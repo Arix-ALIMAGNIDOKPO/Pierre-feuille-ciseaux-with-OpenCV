@@ -1,6 +1,6 @@
 # Jeu de pierre-feuille-ciseaux avec IA
 
-Ce projet utilise la bibliothèque opencv-python pour recréer le célèbre jeu de pierre-feuille-ciseaux de manière interactive avec l'Intelligence Artificielle (IA). Le jeu utilise la vision par ordinateur pour reconnaître la main et les différents signes de l'utilisateur, et affiche le résultat du duel entre l'utilisateur et l'IA.
+Ce projet utilise la bibliothèque opencv-python pour recréer le célèbre jeu de pierre-feuille-ciseaux de manière interactive avec l'Intelligence Artificielle (IA). Ce jeu utilise la vision par ordinateur pour reconnaître la main et les différents signes de l'utilisateur, et affiche le résultat du duel entre l'utilisateur et l'IA. Les règles du jeu sont simples : la pierre bat les ciseaux, les ciseaux battent la feuille et la feuille bat la pierre. 
 
 ## Installation
 
